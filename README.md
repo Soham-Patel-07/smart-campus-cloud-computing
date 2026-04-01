@@ -1,0 +1,56 @@
+# Smart Campus Cloud Computing Project
+
+## MSc Computer Science - Cloud Computing Course Project (May 2025)
+
+This project implements a Smart Campus cloud infrastructure using Amazon Web Services (AWS) as part of my MSc Computer Science degree (Academic Year: May 2025).
+
+## About This Project
+
+This project demonstrates the implementation of a cloud-based Smart Campus system using various AWS services. It showcases practical skills in cloud computing architecture, IoT integration, data management, and cloud security.
+
+## AWS Services Used
+
+| Service | Purpose |
+|---------|---------|
+| AWS IoT Core | Connect and manage IoT devices on campus |
+| Amazon S3 | Scalable object storage for campus data |
+| Amazon RDS (DB2) | Managed relational database |
+| Amazon Kinesis | Real-time data streaming |
+| AWS WAF | Web application firewall for security |
+
+## Project Features
+
+- IoT device connectivity for campus sensors
+- Real-time data streaming and processing
+- Secure cloud architecture
+- Scalable data storage solutions
+- Cost-optimized resource management
+
+## AWS Certification
+
+This project was completed as part of the AWS Cloud Computing course certification provided by the university.
+
+## Documentation
+
+For detailed information about the project, please refer to [DOCUMENTATION.md](./DOCUMENTATION.md).
+
+## Project Structure
+
+```
+Cloud Computing/
+├── Screeenshot/       # AWS service implementation screenshots
+├── Report/            # Project report (PDF/DOCX)
+├── Presentation/      # Project presentation slides
+├── Architecture/      # Cloud architecture diagram
+├── DOCUMENTATION.md   # Detailed documentation
+└── README.md          # This file
+```
+
+## Built With
+
+- Amazon Web Services (AWS)
+- AWS IoT Core
+- Amazon S3
+- Amazon RDS
+- Amazon Kinesis
+- AWS WAF
