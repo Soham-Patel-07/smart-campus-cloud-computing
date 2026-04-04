@@ -38,12 +38,28 @@ For detailed information about the project, please refer to [DOCUMENTATION.md](.
 
 ```
 Cloud Computing/
-├── Screeenshot/       # AWS service implementation screenshots
-├── Report/            # Project report (PDF/DOCX)
-├── Presentation/      # Project presentation slides
-├── Architecture/      # Cloud architecture diagram
-├── DOCUMENTATION.md   # Detailed documentation
-└── README.md          # This file
+├── Screeenshot/           # AWS service implementation screenshots
+│   ├── Total cost 1.png
+│   ├── Total cost 2.png
+│   ├── Creating WAF.png
+│   ├── Created Kinesis Data streams.png
+│   ├── Implemented RDS for DB2.png
+│   ├── IoT core device setup.png
+│   ├── IoT core device setup details.png
+│   ├── S3 bucket creation.png
+│   ├── S3 bucket creating.png
+│   └── Ecom.png
+├── Report/                # Project report
+│   ├── Cloud Computing Report.pdf
+│   └── Cloud Computing Report.docx
+├── Presentation/          # Project presentation slides
+│   ├── Cloud Computing ppt w9.pdf
+│   └── Cloud Computing ppt w9.pptx
+├── Architecture/          # Cloud architecture diagram
+│   └── Cloud Computing architecture.png
+├── DOCUMENTATION.md       # Detailed documentation
+├── README.md              # This file
+└── LICENSE                # MIT License
 ```
 
 ## Built With
