@@ -1,12 +1,12 @@
 # Smart Campus Cloud Computing Project
 
-## MSc Computer Science - Cloud Computing Course Project (May 2025)
+## 🎓 Cloud Computing Course Project | MSc Computer Science | University of East London
 
-This project implements a Smart Campus cloud infrastructure using Amazon Web Services (AWS) as part of my MSc Computer Science degree (Academic Year: May 2025).
 
 ## About This Project
 
-This project demonstrates the implementation of a cloud-based Smart Campus system using various AWS services. It showcases practical skills in cloud computing architecture, IoT integration, data management, and cloud security.
+This project demonstrates the implementation of a Smart Campus cloud infrastructure using Amazon Web Services (AWS) as part of my MSc Computer Science degree (May 2025). It showcases practical skills in cloud computing architecture, IoT integration, data management, and cloud security, providing a comprehensive cloud-based solution for smart campus systems.
+
 
 ## AWS Services Used
 
