@@ -26,6 +26,16 @@ This project demonstrates the implementation of a Smart Campus cloud infrastruct
 - Scalable data storage solutions
 - Cost-optimized resource management
 
+## Screenshots
+
+### S3 Bucket Creation
+![S3 bucket creating](Screeenshot/S3%20bucket%20creating.png)
+![S3 bucket creation](Screeenshot/S3%20bucket%20creation.png)
+
+### Cost Management
+![Total cost 1](Screeenshot/Total%20cost%201.png)
+![Total cost 2](Screeenshot/Total%20cost%202.png)
+
 ## AWS Certification
 
 This project was completed as part of the AWS Cloud Computing course certification provided by the university.
