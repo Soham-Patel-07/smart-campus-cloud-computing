@@ -57,8 +57,7 @@ Cloud Computing/
 │   ├── IoT core device setup.png
 │   ├── IoT core device setup details.png
 │   ├── S3 bucket creation.png
-│   ├── S3 bucket creating.png
-│   └── Ecom.png
+│   └── S3 bucket creating.png
 ├── Report/                # Project report
 │   ├── Cloud Computing Report.pdf
 │   └── Cloud Computing Report.docx
