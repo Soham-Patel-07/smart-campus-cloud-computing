@@ -1,6 +1,6 @@
 # Smart Campus Cloud Computing Project
 
-## 🎓 Cloud Computing Course Project | MSc Computer Science | University of East London
+## 🎓 Cloud Computing Project | MSc Computer Science | University of East London
 
 
 ## About This Project
