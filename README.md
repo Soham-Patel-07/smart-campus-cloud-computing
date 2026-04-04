@@ -70,3 +70,18 @@ Cloud Computing/
 - Amazon RDS
 - Amazon Kinesis
 - AWS WAF
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+## Acknowledgement
+
+- Thanks to our module tutor for guidance and support
+- University of East London for resources and facilities
+
+---
+
+**Note:** This project was developed as a group project for the **Cloud Comptuing** module during my **M.Sc. in Computer Science** at the **University of East London,** completed in **May 2025.**
